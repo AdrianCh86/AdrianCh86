@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdrianCh86
+- 👋 Hi, I’m @AdrianCh86 (Adrian)
 - 👀 I’m interested in: learning & improving my skills
 - 🌱 I’m currently learning: JAWA & Python
 - 💞️ I’m looking to collaborate on: any projects to help me improve my knoledge.
